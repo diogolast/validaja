@@ -56,6 +56,7 @@ uv pip install -r requirements.txt
 # Configure a API Key do Gemini
 cp .env.example .env
 # Edite .env e adicione sua GEMINI_API_KEY
+# Obtenha sua chave em: https://aistudio.google.com/app/apikey
 ```
 
 ### 2. Execução
