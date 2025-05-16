@@ -29,8 +29,8 @@ O ValidaJá! utiliza Inteligência Artificial (Google Gemini) para detectar bole
 #### Opção 1: Com pip (tradicional)
 ```bash
 # Clone o projeto
-git clone <seu-repositorio>
-cd ValidaJá!
+git clone https://github.com/diogolast/validaja.git
+cd validaja
 
 # Instale dependências
 pip install -r requirements.txt
@@ -39,13 +39,12 @@ pip install -r requirements.txt
 #### Opção 2: Com uv (mais rápido)
 ```bash
 # Clone o projeto
-git clone <seu-repositorio>
-cd ValidaJá!
-
+git clone https://github.com/diogolast/validaja.git
+cd validaja
+# Crie um ambiente virtual
+uv venv
 # Instale dependências com uv
 uv pip install -r requirements.txt
-# ou simplesmente
-uv install
 ```
 
 #### Configure a API Key do Gemini
