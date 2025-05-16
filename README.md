@@ -6,6 +6,10 @@ O ValidaJá! utiliza Inteligência Artificial (Google Gemini) para detectar bole
 
 **📚 Projeto desenvolvido durante a Imersão IA da Alura em parceria com o Google Gemini**
 
+## 📖 Como Usar o ValidaJá!
+
+Para entender o funcionamento do sistema e como verificar seus boletos, veja nossa **[página Wiki de Funcionamento](https://github.com/diogolast/validaja/wiki/Entendendo-o-Funcionamento)**.
+
 ## 🤖 Como Funciona
 
 ### 1. **Cadastro de Referências**
